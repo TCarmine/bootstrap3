@@ -4,13 +4,19 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: 'Lato', sans-serif;
 
 }
-
+html{
+  height: 100%;
+}
 h1,h3{
   color:white;
 }
-
+h1{
+  font-weight: 700;
+  font-size: 5em;
+}
 #content {
   text-align: center;
   padding-top:25%;
