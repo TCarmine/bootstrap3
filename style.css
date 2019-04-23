@@ -2,12 +2,12 @@ body{
   padding-top:70px;
 }
 .jumbotron{
-  color: #2c3e50;
-  background: #ecf0f1;
+  color: #1b1f6c;
+  background: #bbdce9;
 }
 
 .navbar-inverse{
-  background: #2c3e50;
+  background: #3139db;
 }
 
 .navbar-inverse .navbar-nav > li>a {
