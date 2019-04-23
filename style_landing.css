@@ -3,8 +3,10 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+   /* make the image backgound to fit and strech */
   background-size: cover;
   font-family: 'Lato', sans-serif;
+  color: white;
 
 }
 
@@ -17,9 +19,7 @@ hr{
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
-h1,h3{
-  color:white;
-}
+
 h1{
   font-weight: 700;
   font-size: 5em;
