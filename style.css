@@ -10,6 +10,8 @@ body{
   background: #3139db;
 }
 
+/* This make the link in the navbar, and for specificity needed
+to select also li, ti comes from bootstrap itself */
 .navbar-inverse .navbar-nav > li>a {
   color: white;
 }
